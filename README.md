@@ -2,7 +2,7 @@
 
 ## Project Overview
 - Analyzed Germany's national CO₂ emissions (1970-2022)
-- Adapted per lecturer guidance to focus on climate change (not urban heat)
+- Adapted to focus on climate change
 - Demonstrates data pipeline methodology for societal threat monitoring
 
 ## Key Findings
